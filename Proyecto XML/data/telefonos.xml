@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE inventario>
+<inventario>
+    <producto codigo="A1B2C3">
+        <nombre>iPhone 15</nombre>
+        <categoria>Móvil</categoria>
+        <precio>999.99</precio>
+        <stock>25</stock>
+    </producto>
+    <producto codigo="D4E5F6">
+        <nombre>Samsung Galaxy S23</nombre>
+        <categoria>Móvil</categoria>
+        <precio>849.99</precio>
+        <stock>30</stock>
+    </producto>
+    <producto codigo="G7H8I9">
+        <nombre>Google Pixel 8</nombre>
+        <categoria>Móvil</categoria>
+        <precio>799.99</precio>
+        <stock>20</stock>
+    </producto>
+    <producto codigo="J1K2L3">
+        <nombre>OnePlus 12</nombre>
+        <categoria>Móvil</categoria>
+        <precio>729.99</precio>
+        <stock>15</stock>
+    </producto>
+    <producto codigo="M4N5O6">
+        <nombre>Motorola Edge 40</nombre>
+        <categoria>Móvil</categoria>
+        <precio>599.99</precio>
+        <stock>18</stock>
+    </producto>
+    <producto codigo="P7Q8R9">
+        <nombre>Xiaomi 13T Pro</nombre>
+        <categoria>Móvil</categoria>
+        <precio>649.99</precio>
+        <stock>22</stock>
+    </producto>
+    <producto codigo="S1T2U3">
+        <nombre>iPhone 15 Pro Max</nombre>
+        <categoria>Móvil</categoria>
+        <precio>1199.99</precio>
+        <stock>10</stock>
+    </producto>
+    <producto codigo="V4W5X6">
+        <nombre>Samsung Galaxy Z Flip5</nombre>
+        <categoria>Móvil Plegable</categoria>
+        <precio>999.99</precio>
+        <stock>8</stock>
+    </producto>
+    <producto codigo="Y7Z8A9">
+        <nombre>Huawei P60 Pro</nombre>
+        <categoria>Móvil</categoria>
+        <precio>899.99</precio>
+        <stock>12</stock>
+    </producto>
+    <producto codigo="B1C2D3">
+        <nombre>Realme GT 5 Pro</nombre>
+        <categoria>Móvil</categoria>
+        <precio>579.99</precio>
+        <stock>14</stock>
+    </producto>
+</inventario>

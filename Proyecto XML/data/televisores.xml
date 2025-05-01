@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE inventario>
+<inventario>
+    <producto codigo="TV001">
+        <nombre>Samsung QLED 55"</nombre>
+        <categoria>Televisor</categoria>
+        <precio>799.99</precio>
+        <stock>14</stock>
+    </producto>
+    <producto codigo="TV002">
+        <nombre>LG OLED C3 65"</nombre>
+        <categoria>Televisor OLED</categoria>
+        <precio>1799.99</precio>
+        <stock>8</stock>
+    </producto>
+    <producto codigo="TV003">
+        <nombre>Sony Bravia XR 75"</nombre>
+        <categoria>Televisor 4K</categoria>
+        <precio>1999.99</precio>
+        <stock>6</stock>
+    </producto>
+    <producto codigo="TV004">
+        <nombre>TCL 50" QLED 4K</nombre>
+        <categoria>Televisor</categoria>
+        <precio>499.99</precio>
+        <stock>20</stock>
+    </producto>
+    <producto codigo="TV005">
+        <nombre>Hisense 65" ULED</nombre>
+        <categoria>Televisor ULED</categoria>
+        <precio>649.99</precio>
+        <stock>18</stock>
+    </producto>
+    <producto codigo="TV006">
+        <nombre>Philips Ambilight 58"</nombre>
+        <categoria>Televisor LED</categoria>
+        <precio>729.99</precio>
+        <stock>10</stock>
+    </producto>
+    <producto codigo="TV007">
+        <nombre>Panasonic 55" 4K HDR</nombre>
+        <categoria>Televisor</categoria>
+        <precio>679.99</precio>
+        <stock>12</stock>
+    </producto>
+    <producto codigo="TV008">
+        <nombre>LG NanoCell 65"</nombre>
+        <categoria>Televisor NanoCell</categoria>
+        <precio>849.99</precio>
+        <stock>9</stock>
+    </producto>
+    <producto codigo="TV009">
+        <nombre>Samsung Crystal UHD 43"</nombre>
+        <categoria>Televisor UHD</categoria>
+        <precio>399.99</precio>
+        <stock>25</stock>
+    </producto>
+    <producto codigo="TV010">
+        <nombre>Sharp 40" LED Smart TV</nombre>
+        <categoria>Televisor Smart</categoria>
+        <precio>299.99</precio>
+        <stock>22</stock>
+    </producto>
+</inventario>

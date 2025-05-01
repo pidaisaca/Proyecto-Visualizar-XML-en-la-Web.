@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE inventario>
+<inventario>
+    <producto codigo="CON001">
+        <nombre>PlayStation 5</nombre>
+        <categoria>Consola</categoria>
+        <precio>549.99</precio>
+        <stock>15</stock>
+    </producto>
+    <producto codigo="CON002">
+        <nombre>Xbox Series X</nombre>
+        <categoria>Consola</categoria>
+        <precio>499.99</precio>
+        <stock>12</stock>
+    </producto>
+    <producto codigo="CON003">
+        <nombre>Nintendo Switch OLED</nombre>
+        <categoria>Consola Híbrida</categoria>
+        <precio>349.99</precio>
+        <stock>20</stock>
+    </producto>
+    <producto codigo="CON004">
+        <nombre>Xbox Series S</nombre>
+        <categoria>Consola Digital</categoria>
+        <precio>299.99</precio>
+        <stock>18</stock>
+    </producto>
+    <producto codigo="CON005">
+        <nombre>PlayStation 5 Digital Edition</nombre>
+        <categoria>Consola Digital</categoria>
+        <precio>449.99</precio>
+        <stock>10</stock>
+    </producto>
+    <producto codigo="CON006">
+        <nombre>Nintendo Switch Lite</nombre>
+        <categoria>Consola Portátil</categoria>
+        <precio>199.99</precio>
+        <stock>25</stock>
+    </producto>
+    <producto codigo="CON007">
+        <nombre>Steam Deck 512GB</nombre>
+        <categoria>Consola Portátil</categoria>
+        <precio>649.99</precio>
+        <stock>7</stock>
+    </producto>
+    <producto codigo="CON008">
+        <nombre>ASUS ROG Ally</nombre>
+        <categoria>Consola Portátil</categoria>
+        <precio>699.99</precio>
+        <stock>9</stock>
+    </producto>
+    <producto codigo="CON009">
+        <nombre>PlayStation 4 Slim</nombre>
+        <categoria>Consola</categoria>
+        <precio>299.99</precio>
+        <stock>14</stock>
+    </producto>
+    <producto codigo="CON010">
+        <nombre>Retro-Bit Super Retro-Cade</nombre>
+        <categoria>Consola Retro</categoria>
+        <precio>89.99</precio>
+        <stock>30</stock>
+    </producto>
+</inventario>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE inventario>
+<inventario>
+    <producto codigo="PC001">
+        <nombre>MacBook Pro 14"</nombre>
+        <categoria>Portátil</categoria>
+        <precio>1999.99</precio>
+        <stock>12</stock>
+    </producto>
+    <producto codigo="PC002">
+        <nombre>Dell XPS 13</nombre>
+        <categoria>Portátil</categoria>
+        <precio>1399.99</precio>
+        <stock>20</stock>
+    </producto>
+    <producto codigo="PC003">
+        <nombre>HP Spectre x360</nombre>
+        <categoria>Portátil Convertible</categoria>
+        <precio>1249.99</precio>
+        <stock>18</stock>
+    </producto>
+    <producto codigo="PC004">
+        <nombre>Lenovo ThinkPad X1 Carbon</nombre>
+        <categoria>Portátil Profesional</categoria>
+        <precio>1499.99</precio>
+        <stock>15</stock>
+    </producto>
+    <producto codigo="PC005">
+        <nombre>Acer Predator Helios 300</nombre>
+        <categoria>Portátil Gaming</categoria>
+        <precio>1299.99</precio>
+        <stock>10</stock>
+    </producto>
+    <producto codigo="PC006">
+        <nombre>MSI Stealth 15M</nombre>
+        <categoria>Portátil Gaming</categoria>
+        <precio>1199.99</precio>
+        <stock>8</stock>
+    </producto>
+    <producto codigo="PC007">
+        <nombre>Apple iMac 24"</nombre>
+        <categoria>Todo en uno</categoria>
+        <precio>1599.99</precio>
+        <stock>9</stock>
+    </producto>
+    <producto codigo="PC008">
+        <nombre>ASUS ROG Zephyrus G14</nombre>
+        <categoria>Portátil Gaming</categoria>
+        <precio>1449.99</precio>
+        <stock>11</stock>
+    </producto>
+    <producto codigo="PC009">
+        <nombre>Microsoft Surface Laptop 5</nombre>
+        <categoria>Portátil Ultraligero</categoria>
+        <precio>1299.99</precio>
+        <stock>17</stock>
+    </producto>
+    <producto codigo="PC010">
+        <nombre>Lenovo IdeaCentre 5</nombre>
+        <categoria>Sobremesa</categoria>
+        <precio>799.99</precio>
+        <stock>13</stock>
+    </producto>
+</inventario>
