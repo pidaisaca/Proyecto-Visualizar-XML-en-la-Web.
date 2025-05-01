@@ -16,9 +16,9 @@ Tareas:
 Estructura:
 ```
 Carpeta Proyecto
-|- Carpeta con HTML
-|- Carpeta con CSS
-|- Carpeta con JavaScript
-|- Carpeta con xml
+|- Carpeta con HTML (páginas)
+|- Carpeta con CSS (estilos)
+|- Carpeta con JavaScript (scripts)
+|- Carpeta con xml (data)
 |- Opcional imagenes
 ```
