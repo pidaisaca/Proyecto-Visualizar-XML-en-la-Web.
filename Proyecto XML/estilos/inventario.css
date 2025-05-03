@@ -1,0 +1,42 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: lightgrey;
+}
+.footer {
+  margin-top: auto; 
+  background-color: red;
+  padding: 10px;
+  text-align: center;
+}
+
+.footer p {
+  margin: 0;
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 15px;
+}
+
+.inventario_volver {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 120px;
+  height: 40px;
+  font-size: 16px;
+}
+.inventario_volver {
+  margin-top: 20px;
+}
+
