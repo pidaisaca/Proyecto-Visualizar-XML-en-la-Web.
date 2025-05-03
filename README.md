@@ -1,7 +1,10 @@
 # Proyecto-Visualizar-XML-en-la-Web.
 Crear una página web que permita: Listar todos los archivos XML disponibles en un directorio. y que al hacer clic en el nombre de un archivo XML, cargarlo en la página.
 
-Tareas:
+## Material usado
+
+
+## Estructura de funcionamiento:
 
 1-Pagina login -> 2-Pagina con los xml -> 3-Página especifica de cada xml/xsl
 
@@ -13,7 +16,9 @@ Tareas:
 
 3 Información del xml por productos. Boton para volver al html inicial.
 
-Estructura:
+
+
+## Estructura de carpetas:
 ```
 Carpeta Proyecto
 |- Carpeta con HTML (páginas)
@@ -22,3 +27,8 @@ Carpeta Proyecto
 |- Carpeta con xml (data)
 |- Opcional imagenes
 ```
+
+## Autores:
+
+
+
