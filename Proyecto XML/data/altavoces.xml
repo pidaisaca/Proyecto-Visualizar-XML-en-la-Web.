@@ -2,6 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="inventario.xsl"?>
 <!DOCTYPE inventario>
 <inventario>
+    <titulo>Altavoces</titulo>
     <producto codigo="SPK001">
         <nombre>JBL Flip 6</nombre>
         <categoria>Altavoz Bluetooth</categoria>

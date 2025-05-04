@@ -2,6 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="inventario.xsl"?>
 <!DOCTYPE inventario>
 <inventario>
+    <titulo>Ordenadores</titulo>
     <producto codigo="PC001">
         <nombre>MacBook Pro 14"</nombre>
         <categoria>Portátil</categoria>

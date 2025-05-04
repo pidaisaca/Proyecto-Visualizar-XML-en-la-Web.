@@ -4,25 +4,24 @@
     <xsl:template match="/*">
     <html>
         <head>
-            <title><xsl:value-of select="name()"/></title>
+            <title><xsl:value-of select="titulo"/></title>
             <link rel="stylesheet" type="text/css" href="../estilos/inventario.css"/>
         </head>
         <body>
-          <header>
-            
-          </header>
+            <header class="header">
+                <h1><xsl:value-of select="titulo"/></h1>
+            </header>
           
             <table border="1">
                 <thead>
-            	<tr>
-              		<th>Codigo</th>
-					
-              <th>Nombre</th>
-              <th>Categoria</th>
-              <th>Precio</th>
-              <th>Stock</th>
-            </tr>
-          </thead>
+            	    <tr>
+              		    <th>Codigo</th>
+                        <th>Nombre</th>
+                        <th>Categoria</th>
+                        <th>Precio</th>
+                        <th>Stock</th>
+                    </tr>
+                </thead>
                 <tbody>
                     <xsl:apply-templates select="producto"/>
                 </tbody>

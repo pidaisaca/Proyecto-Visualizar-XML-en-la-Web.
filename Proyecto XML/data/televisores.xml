@@ -2,6 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="inventario.xsl"?>
 <!DOCTYPE inventario>
 <inventario>
+    <titulo>Televisores</titulo>
     <producto codigo="TV001">
         <nombre>Samsung QLED 55"</nombre>
         <categoria>Televisor</categoria>
