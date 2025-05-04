@@ -16,14 +16,24 @@
         </div>
     </header>
     <h3>Inventario</h3>
+
+    <div class="campo-busqueda">
+        <form method="get" id="search-form" onsubmit="return false;">
+          <fieldset>
+            <input type="text" id="campo-busqueda" oninput="filtrarTablaPorNombre()" placeholder="Buscar por nombre">
+            <input class="search-button" type="button" value="Buscar" />
+          </fieldset>
+        </form>
+      </div>
+
     <table>
         <thead>
             <tr>
-                <th>Name</th>
-                <th>Description</th>
-                <th>Entry Date</th>
-                <th>SKU (Reference Code)</th>
-                <th>Location</th>
+                <th>Nombre</th>
+                <th>Descripción</th>
+                <th>Fecha de Entrada</th>
+                <th>SKU (Codigo de referencia)</th>
+                <th>Localizacion</th>
             </tr>
         </thead>
         <tbody id="tabla">
