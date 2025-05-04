@@ -14,7 +14,13 @@ Carpeta Proyecto
 |- Carpeta con JavaScript (scripts)
 |- Carpeta con xml (data)
 ```
+## Elementos necesarios para su uso
+Opciones para el funcionamiento correcto de las páginas
 
+### Desde VisualStudioCode
+ - Extensión LiveServer
+### Desde Navegador
+ - Flag  --allow-file-access-from-files en el acceso directo
 
 ## Estructura de funcionamiento:
 
