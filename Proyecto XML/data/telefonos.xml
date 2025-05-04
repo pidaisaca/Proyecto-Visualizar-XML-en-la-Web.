@@ -2,6 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="inventario.xsl"?>
 <!DOCTYPE inventario>
 <inventario>
+    <titulo>Telefonos</titulo>
     <producto codigo="A1B2C3">
         <nombre>iPhone 15</nombre>
         <categoria>Móvil</categoria>

@@ -2,13 +2,25 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background-color: lightgrey;
+  background-color: #f4f4f4; /* Fondo más limpio */
+  font-family: Arial, sans-serif;
 }
+
+.header {
+  background-color: #cc0000; 
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
 .footer {
-  margin-top: auto; 
-  background-color: red;
+  margin-top: auto;
+  background-color: #cc0000; /* Rojo de Worten */
   padding: 10px;
   text-align: center;
+  color: white;
 }
 
 .footer p {
@@ -16,27 +28,38 @@ body {
 }
 
 table {
-  margin: 0 auto;
+  margin: 20px auto;
   border-collapse: collapse;
+  background-color: white;
+  width: 80%;
 }
 
 table, th, td {
-  border: 1px solid black;
+  border: 1px solid #003366; /* Bordes en azul oscuro */
 }
 
 th, td {
   padding: 15px;
+  text-align: center;
+}
+
+th {
+  background-color: #003366;
+  color: white;
 }
 
 .inventario_volver {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 20px auto;
   width: 120px;
   height: 40px;
   font-size: 16px;
-}
-.inventario_volver {
-  margin-top: 20px;
+  background-color: #cc0000;
+  color: white;
+  border: none;
+  cursor: pointer;
 }
 
+.inventario_volver:hover {
+  background-color: #990000;
+}

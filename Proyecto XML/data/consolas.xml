@@ -2,6 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="inventario.xsl"?>
 <!DOCTYPE inventario>
 <inventario>
+    <titulo>Consolas</titulo>
     <producto codigo="CON001">
         <nombre>PlayStation 5</nombre>
         <categoria>Consola</categoria>
